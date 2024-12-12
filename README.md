@@ -1,0 +1,1 @@
+#The table structure Structure has been given in the database.txt file which is a SQL database, please refer it.
